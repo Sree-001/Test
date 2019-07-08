@@ -4,4 +4,6 @@ funciton foo(){
 
 function yure() {
     console.log('sdafa')
+function doo() {
+    console.log("Not good")
 }
